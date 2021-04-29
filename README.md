@@ -1,6 +1,6 @@
 ### Hi there, my name is Fedor 👋
 
-I'm C/C++ senior developer with 3 year experience, Golang backend developer with 1-2 year experience and junior Python developer with less than year experience. Currently I'm interested in backend development, machine learning and low-level stuff: operating systems, programming languages, etc. Also I'm looking for backend and frontend developers for my project connected with platform named Discord.
+I'm C/C++ middle developer with 3 year experience, Golang backend developer with 1-2 year experience and junior Python developer with less than year experience. Currently I'm interested in backend development, machine learning and low-level stuff: operating systems, programming languages, etc. Also I'm looking for backend and frontend developers for my project connected with platform named Discord.
 
 For now, this is mostly interesting and active* repos in my profile:
 - [DepthOS-eps2](https://github.com/FedorLap2006/DepthOS-eps2)
