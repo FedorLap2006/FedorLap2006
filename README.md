@@ -1,16 +1,21 @@
-### Hi there, my name is Fedor 👋
+### Hello there!
 
-I'm C/C++ middle developer with 3 year experience, Golang backend developer with 1-2 year experience and junior Python developer with less than year experience. Currently I do backend development, machine learning and low-level stuff: operating systems, programming languages, etc. Also I'm looking for backend and frontend developers for my project connected with platform named Discord.
+I'm Fedor and I'm very excited to meet you in my profile.
 
-Most interesting and active repos in my profile:
-- [DepthOS-eps2](https://github.com/FedorLap2006/DepthOS-eps2)
-- [Wuvy](https://github.com/FedorLap2006/Wuvy)
-- [micro-engine](https://github.com/FedorLap2006/micro-engine)
+I live in Russia and love to develop all sorts of things: website backends, neural networks, bots, operating systems, programming languages and many more! 
 
-_If you are wondering why is there so many repos in my profile? - In the past I was looking for some good ideas and created those blank repositories to develop, but didn't continue their development. Most of them inactive, but in the future development of some of them might continue._
+I'm the founder of the [Hyperon team](https://github.com/hyperon-team). We currently work on an AI-powered advertisement platform named Hyperia and Discord protection bot named HyperonGuard.
 
-Contacts:
+Also I have a lot of experience in all sorts of languages and technologies:
+- C/C++ middle level: General, GameDev, Low Level - 3 years
+- Golang: Backend - 2 years
+- Python: ML, Scripts - 1 year
+- Docker - 1 year
+
+Right now I'm learning K8s and wanna get into frontend (w/ React.JS or Vue.JS).
+
+If you wanna get in contact with me, here is some contact information:
 - Twitter: [@nitroflap](https://twitter.com/@nitroflap)
-- Discord: lapfed255#4189
+- Discord: `lapfed255#4189`
 
 Thanks for your attention.
