@@ -12,7 +12,7 @@ Also I have a lot of experience in all sorts of languages and technologies:
 - Python: ML, Scripts - 1 year
 - Docker - 1 year
 
-Right now I'm learning K8s and wanna get into frontend (w/ React.JS or Vue.JS).
+Right now I'm learning K8s and practicing on making frontend with React and Vue.
 
 If you wanna get in contact with me, here is some contact information:
 - Twitter: [@nitroflap](https://twitter.com/@nitroflap)
