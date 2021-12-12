@@ -1,5 +1,6 @@
 ### Hello there!
 
+
 I'm Fedor and I'm very excited to meet you in my profile.
 
 I live in Russia and love to develop all sorts of things: website backends, neural networks, bots, operating systems, programming languages and many more! 
@@ -19,3 +20,5 @@ If you wanna get in contact with me, here is some contact information:
 - Discord: `lapfed255#4189`
 
 Thanks for your attention.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorLap2006&show_icons=true&theme=onedark)
