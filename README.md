@@ -1,24 +1,32 @@
 ### Hello there!
 
 
-I'm Fedor and I'm very excited to meet you in my profile.
+I'm Fedor (he/him) and I'm very excited to meet you in my profile.
 
-I live in Russia and love to develop all sorts of things: website backends, neural networks, bots, operating systems, programming languages and many more! 
+I love to develop all sorts of things: website backends, neural networks, bots, operating systems, programming languages and many more!
 
-I'm the founder of the [Hyperon team](https://github.com/hyperon-team). We currently work on an AI-powered advertisement platform named Hyperia and Discord protection bot named HyperonGuard.
+I'm the go-to maintainer of DiscordGo (Discord API bindings for Go) library.
 
-Also I have a lot of experience in all sorts of languages and technologies:
-- C/C++ middle level: General, GameDev, Low Level - 3 years
-- Golang: Backend - 2 years
-- Python: ML, Scripts - 1 year
-- Docker - 1 year
+I'm founder of the [Hyperon team](https://github.com/hyperon-team). We're currently working on an AI-powered advertisement platform named Hyperia and Discord server protection bot named HyperonGuard.
 
-Right now I'm learning K8s and practicing on making frontend with React and Vue.
+Technologies and languages I use:
+- C/C++ - 4 years
+- Golang - 3 years
+- Python (Machine Learning, Scripts) - 2 years
+- Docker - 2 years
+- React - 1 year
+- NextJS - 2 months
+- Kubernetes - 2 months
 
-If you wanna get in contact with me, here is some contact information:
+---
+My contact information:
 - Twitter: [@nitroflap](https://twitter.com/@nitroflap)
 - Discord: `lapfed255#4189`
+- Telegram: [nitroflap](https://t.me/nitroflap)
 
-Thanks for your attention.
+---
+
+Thank you for visiting my page.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorLap2006&show_icons=true&theme=onedark)
+
