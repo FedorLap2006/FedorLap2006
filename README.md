@@ -1,32 +1,33 @@
-### Hello there!
+## Hello there!
 
+Thank you for visiting my page, very excited to have you here!
 
-I'm Fedor (he/him) and I'm very excited to meet you in my profile.
+My name is Fedor, I love to to develop all sorts of things, though mostly I'm interested in operating system and fullstack development. 
 
-I love to develop all sorts of things: website backends, neural networks, bots, operating systems, programming languages and many more!
+On the side I like to compose and draw.
 
-I'm the go-to maintainer of DiscordGo (Discord API bindings for Go) library.
+Currently I maintain [DiscordGo](https://github.com/bwmarrin/discordgo) and [DepthOS](https://github.com/FedorLap2006/DepthOS) (latter is an operating system of mine).
 
-I'm founder of the [Hyperon team](https://github.com/hyperon-team). We're currently working on an AI-powered advertisement platform named Hyperia and Discord server protection bot named HyperonGuard.
+## Technical Skills
 
-Technologies and languages I use:
-- C/C++ - 4 years
-- Golang - 3 years
-- Python (Machine Learning, Scripts) - 2 years
-- Docker - 2 years
-- React - 1 year
-- NextJS - 2 months
-- Kubernetes - 2 months
+### Languages
+- C/C++ - 5 years
+- Golang - 4 years
+- Python - 3 years
 
----
-My contact information:
-- Twitter: [@nitroflap](https://twitter.com/@nitroflap)
-- Discord: `lapfed255#4189`
+### Tech & frameworks
+- React - 2 years
+- NextJS - 2 years
+- Docker - 3 years
+- Linux - 4 years
+- PyTorch - 2 months
+
+## Feel free to reach out!
+- Discord: `lapfed255`
+- Mastodon: [lapfed255](https://mastodon.social/@lapfed255)
 - Telegram: [nitroflap](https://t.me/nitroflap)
 
----
-
-Thank you for visiting my page.
+<br/>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FedorLap2006&show_icons=true&theme=onedark)
 
