@@ -22,6 +22,9 @@ Currently I maintain [DiscordGo](https://github.com/bwmarrin/discordgo) and [Dep
 - Linux - 4 years
 - PyTorch - 2 months
 
+## Support
+If you want to support me and my work, you can leave a tip or sub [here](https://boosty.to/lapfed/donate).
+
 ## Feel free to reach out!
 - Discord: `lapfed255`
 - Mastodon: [lapfed255](https://mastodon.social/@lapfed255)
